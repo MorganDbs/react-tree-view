@@ -1,6 +1,0 @@
-
-.storybook/
-node_modules/
-storybook-static/
-index.js
-rows.json
